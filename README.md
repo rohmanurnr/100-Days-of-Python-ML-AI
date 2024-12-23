@@ -116,6 +116,6 @@ I hope this challenge can inspire and benefit all of us as we continue learning 
 ---
 
 ## 📅 **Learning Progress**
-[Day 1: Introduction to Python and Basic Programming](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/)
+**Day 1:** [Introduction to Python and Basic Programming](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/)
 
 
