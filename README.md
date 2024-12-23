@@ -17,38 +17,6 @@ Every day, I will be adding explanations of what I've learned, code examples, an
 
 ---
 
-## 🔧 **Installation and Setup**
-To follow along with this challenge, you'll need to set up your development environment. Here’s how to get started:
-
-### 1. **Python**
-Download and install the latest version of **Python** from [python.org](https://www.python.org/downloads/).
-
-### 2. **Jupyter Notebook & VSCode**
-Install **Jupyter Notebook** for interactive coding and **VSCode** as your code editor.
-
-- **Jupyter Notebook**:  
-  ```bash
-  pip install notebook
-  ```
-
-- **VSCode**:  
-  Visit [VSCode Download](https://code.visualstudio.com/) and follow the installation instructions.
-
-### 3. **Required Libraries**
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- TensorFlow/Keras
-- OpenCV
-
-Install all necessary libraries with pip:
-```bash
-pip install pandas numpy matplotlib scikit-learn tensorflow opencv-python
-```
-
----
-
 ## 🚀 **How to Use This Repository**
 1. **Clone the Repository**  
    You can clone this repository to your local machine:
@@ -74,6 +42,11 @@ By following this challenge, I aim to:
 
 ---
 
+## 📅 **Learning Progress**
+**Day 1:** [Introduction to Python and Basic Programming](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%201)
+
+---
+
 ## 📢 **How to Participate?**
 I welcome anyone who wants to join in on this challenge! If you’d like to take on the same challenge, simply follow this repository and share your journey with the hashtag **#SobatBerprosTech** on social media.
 
@@ -84,11 +57,6 @@ I welcome anyone who wants to join in on this challenge! If you’d like to take
 - **GitHub**: [GitHub Profile](https://github.com/rohmanurnr)
 - **Instagram 1**: [Instagram Profile](https://www.instagram.com/rohmanurnr)
 - **Instagram 2**: [Instagram Profile](https://www.instagram.com/sobatberprostech)
-
----
-
-## 📅 **Learning Progress**
-**Day 1:** [Introduction to Python and Basic Programming](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%201)
 
 ---
 
