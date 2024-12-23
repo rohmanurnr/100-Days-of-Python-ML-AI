@@ -88,7 +88,7 @@ I welcome anyone who wants to join in on this challenge! If you’d like to take
 ---
 
 ## 📅 **Learning Progress**
-**Day 1:** [Introduction to Python and Basic Programming](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/)
+**Day 1:** [Introduction to Python and Basic Programming](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%201)
 
 ---
 
