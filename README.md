@@ -17,29 +17,6 @@ Every day, I will be adding explanations of what I've learned, code examples, an
 
 ---
 
-## 📝 **Repository Structure**
-
-This repository is organized by the days of my challenge. Each day contains the learning material, code examples, and results from the tasks performed. You'll find the following folders and files:
-
-```
-100-Days-of-Python-ML-AI/
-├── Day_1_Python_Basics/
-│   ├── README.md
-│   └── script_day1.py
-├── Day_2_Control_Flow/
-│   ├── README.md
-│   └── script_day2.py
-├── Day_3_Data_Structures/
-│   ├── README.md
-│   └── script_day3.py
-└── ...
-└── Day_100_Final_Project/
-    ├── README.md
-    └── final_project.py
-```
-
----
-
 ## 🔧 **Installation and Setup**
 To follow along with this challenge, you'll need to set up your development environment. Here’s how to get started:
 
@@ -110,12 +87,10 @@ I welcome anyone who wants to join in on this challenge! If you’d like to take
 
 ---
 
-**Thank you for following my journey!**  
-I hope this challenge can inspire and benefit all of us as we continue learning and growing together! 😊
-
----
-
 ## 📅 **Learning Progress**
 **Day 1:** [Introduction to Python and Basic Programming](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/)
 
+---
 
+**Thank you for following my journey!**  
+I hope this challenge can inspire and benefit all of us as we continue learning and growing together! 😊
