@@ -38,11 +38,11 @@ jupyter notebook
 ### 4. Proyek Pertama: Hello World!
 - Buka Jupyter Notebook dan buat file baru dengan ekstensi .py.
 - Tulis kode berikut di dalam notebook:
-```
+```python
 print("Hello World!")
 ```
 - Jalankan kode tersebut dan pastikan output yang muncul adalah:
 ```python
-  print("Hello World!")
+  Hello World
 ```
 Ini menandakan bahwa Python dan Jupyter Notebook telah berhasil disetup.
