@@ -42,7 +42,6 @@ jupyter notebook
 print("Hello World!")
 ```
 - Jalankan kode tersebut dan pastikan output yang muncul adalah:
-```
-Hello World!
-```
+```python
+  print("Hello World!")
 Ini menandakan bahwa Python dan Jupyter Notebook telah berhasil disetup.
