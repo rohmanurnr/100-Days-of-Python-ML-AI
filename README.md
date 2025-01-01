@@ -43,7 +43,7 @@ By following this challenge, I aim to:
 ---
 
 ## 📅 **Learning Progress**
-**Day 1:** [Introduction to Python and Basic Programming](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%201)
+**Day 1:** [Python, Anaconda, and Jupyter Setup](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%201)
 
 ---
 
