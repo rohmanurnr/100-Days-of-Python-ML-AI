@@ -43,11 +43,11 @@ By following this challenge, I aim to:
 ---
 
 ## 📅 **Learning Progress**
-**Day 1:** [Python, Anaconda, and Jupyter Setup](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%201)
-**Day 2:** [Menguasai Dasar Python](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%202)
-**Day 3:** [Python Basics & Mini Project](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%203)
-**Day 4:** [Pengenalan NumPy](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%204)
-**Day 5:** [Pengenalan Pandas](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%205)
+- **Day 1:** [Python, Anaconda, and Jupyter Setup](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%201)
+- **Day 2:** [Menguasai Dasar Python](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%202)
+- **Day 3:** [Python Basics & Mini Project](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%203)
+- **Day 4:** [Pengenalan NumPy](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%204)
+- **Day 5:** [Pengenalan Pandas](https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/tree/main/Day%205)
 ---
 
 ## 📢 **How to Participate?**
