@@ -149,8 +149,8 @@ min        4.300000     2.000000      1.000000     0.100000
 max        7.900000     4.400000      6.900000     2.500000
 ```
 📂 File dan Format Output
-Input File: 'iris.csv, 'iris.xlsx'
+Input File: `iris.csv`, `iris.xlsx`
 Output File:
-- 'output_data.csv'
-- 'output_data.xlsx'
-- 'output_data.json'
+- `output_data.csv`
+- `output_data.xlsx`
+- `output_data.json`
