@@ -34,12 +34,13 @@ pip install seaborn matplotlib pandas
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
 ```
 
 ### Unggah Dataset Iris
 ```python
-df = sns.load_dataset("iris")
-df
+df = pd.read_csv('iris.csv')  # Ganti dengan path file CSV Anda
+print(df.head())
 ```
 Output:
 ```bash 
@@ -54,16 +55,14 @@ Output:
 ### 1. Membuat heatmap untuk melihat korelasi antar data
 `df.corr()` menghitung korelasi antar kolom dalam dataset.
 `sns.heatmap()` digunakan untuk memvisualisasikan korelasi tersebut dalam bentuk heatmap, dengan parameter tambahan seperti `annot=True` untuk menampilkan nilai korelasi, `cmap` untuk memilih skema warna, dan `fmt=".2f"` untuk format angka dengan dua tempat desimal.
+```python
+numeric_df = df.select_dtypes(include=[np.number])
+correlation_matrix = numeric_df.corr()
 
-#### Menghitung korelasi antar kolom dalam dataset 
-```python
-correlation_matrix = df.corr()
-```
-#### Visualisasi heatmap 
-```python
 plt.figure(figsize=(8, 6)) 
 sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm", fmt=".2f", linewidths=0.5)
 plt.title("Heatmap Korelasi Antar Data") 
+plt.savefig('heatmap_korelasi.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
