@@ -129,5 +129,5 @@ plt.annotate('Puncak Sine', xy=(1.57, 1), xytext=(3, 1.5),
 ```
 Output:
 ```bash
-
+Text(3, 1.5, 'Puncak Sine')
 ```
