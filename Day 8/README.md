@@ -51,9 +51,7 @@ plt.grid(True)
 plt.show()
 ```
 Output:
-```bash
-
-```
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%208/grafik_garis.png" width="500">
 
 ### Membuat Grafik Batang
 Langkah-langkah:
@@ -72,9 +70,7 @@ plt.ylabel('Jumlah Penjualan')
 plt.show()
 ```
 Output:
-```bash
-
-```
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%208/grafik_batang.png)" width="500">
 
 ### Membuat Histogram
 Langkah-langkah:
@@ -92,9 +88,7 @@ plt.ylabel('Frekuensi')
 plt.show()
 ```
 Output:
-```bash
-
-```
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%208/histogram.png" width="500">
 
 ### Menambahkan Elemen Estetika
 *Warna:* Gunakan parameter ‘color’ untuk mengatur warna grafik.
@@ -117,9 +111,7 @@ plt.grid(True)
 plt.show()
 ```
 Output:
-```bash
-
-```
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%208/elemen_estetika.png" width="500">
 
 ### Interpretasi Data
 Tambahkan anotasi jika ada poin penting dalam grafik
@@ -131,3 +123,4 @@ Output:
 ```bash
 Text(3, 1.5, 'Puncak Sine')
 ```
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%208/interpretasi_data.png" width="500">
