@@ -20,7 +20,7 @@ Kemampuan membaca dan menulis data adalah fondasi penting dalam analisis data. P
 ---
 ## 📂 File Input
 Sebelum memulai, Anda memerlukan file **iris.csv** sebagai data input. Anda dapat mengunduh file ini melalui tautan berikut:
-- [Unduh iris.csv](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv)
+- [Unduh iris.csv](https://github.com/mwaskom/seaborn-data/raw/master/iris.csv)
 
 Simpan file tersebut di direktori kerja yang sama dengan script Python Anda.
 ---
