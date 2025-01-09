@@ -11,19 +11,18 @@
 3. Menyimpan DataFrame ke format lain seperti CSV, Excel, atau JSON menggunakan `to_csv()` dan `to_excel()`.
 
 ---
-## 📂 File Input
-Sebelum memulai, Anda memerlukan file **iris.csv** sebagai data input. Anda dapat mengunduh file ini melalui tautan berikut:
-- [Unduh iris.csv](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv)
-
-Simpan file tersebut di direktori kerja yang sama dengan script Python Anda.
-
----
 
 ## 🏆 Aktivitas/Tantangan
 
 ### Deskripsi
 Kemampuan membaca dan menulis data adalah fondasi penting dalam analisis data. Pandas menyediakan fungsi yang sangat fleksibel untuk membaca berbagai jenis file, seperti CSV, Excel, JSON, dan banyak lagi. Dengan fungsi yang sama, kita juga dapat menyimpan hasil analisis ke format file yang sesuai untuk berbagi atau penyimpanan.
 
+---
+## 📂 File Input
+Sebelum memulai, Anda memerlukan file **iris.csv** sebagai data input. Anda dapat mengunduh file ini melalui tautan berikut:
+- [Unduh iris.csv](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv)
+
+Simpan file tersebut di direktori kerja yang sama dengan script Python Anda.
 ---
 
 ## 🚀 Langkah-Langkah
