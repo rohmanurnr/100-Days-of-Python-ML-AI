@@ -71,9 +71,9 @@ Output:
 <img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%209/heatmap_korelasi.png" width=”500”>
 
 ### 2. Membuat pairplot untuk melihat hubungan antar variabel
-`sns.pairplot()` membuat plot pairwise untuk semua variabel numerik dalam dataset.
-Parameter `hue="species"` digunakan untuk memberi warna berdasarkan kolom `species`, dan `palette="Set1"` memilih palet warna.
-`markers` digunakan untuk mengubah bentuk titik pada plot, dan `plot_kws={'alpha': 0.7}` untuk menambahkan transparansi pada plot.
+- `sns.pairplot()` membuat plot pairwise untuk semua variabel numerik dalam dataset.
+- Parameter `hue="species"` digunakan untuk memberi warna berdasarkan kolom `species`, dan `palette="Set1"` memilih palet warna.
+- `markers` digunakan untuk mengubah bentuk titik pada plot, dan `plot_kws={'alpha': 0.7}` untuk menambahkan transparansi pada plot.
 ```python
 sns.pairplot(df, hue="variety", palette="Set1") 
 plt.title("Pairplot Hubungan Antar Variabel")
