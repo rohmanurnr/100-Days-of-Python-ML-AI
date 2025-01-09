@@ -55,8 +55,8 @@ Output:
 
 ### Membuat Grafik Batang
 Langkah-langkah:
-1. Siapkan data kategori (x) dan nilainya (y).
-2. Gunakan plt.bar() untuk membuat grafik batang.
+1. Siapkan data kategori `(x)` dan nilainya `(y)`.
+2. Gunakan `plt.bar()` untuk membuat grafik batang.
 3. Gunakan warna atau pola berbeda untuk membedakan kategori.
 ```python
 categories = ['A', 'B', 'C', 'D']
@@ -75,7 +75,7 @@ Output:
 ### Membuat Histogram
 Langkah-langkah:
 1. Siapkan data numerik (misalnya, tinggi badan atau nilai).
-2. Gunakan plt.hist() untuk membuat histogram.
+2. Gunakan `plt.hist()` untuk membuat histogram.
 3. Tentukan jumlah bins untuk membagi data menjadi interval.
 ```python
 data = np.random.normal(loc=170, scale=10, size=100)  # 100 data tinggi badan dengan mean=170, std=10
@@ -91,10 +91,10 @@ Output:
 <img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%208/histogram.png" width="500">
 
 ### Menambahkan Elemen Estetika
-- **Warna:** Gunakan parameter 'color' untuk mengatur warna grafik.
-- **Marker:** Gunakan parameter 'marker' untuk menampilkan simbol pada data titik.
-- **Grid:** Gunakan 'plt.grid(True)' untuk menambahkan grid.
-- **Legenda:** Gunakan 'plt.legend()' untuk menambahkan keterangan pada grafik.
+- **Warna:** Gunakan parameter `color` untuk mengatur warna grafik.
+- **Marker:** Gunakan parameter `marker` untuk menampilkan simbol pada data titik.
+- **Grid:** Gunakan `plt.grid(True)` untuk menambahkan grid.
+- **Legenda:** Gunakan `plt.legend()` untuk menambahkan keterangan pada grafik.
 ```python
 x = np.linspace(0, 10, 100)
 y1 = np.sin(x)
