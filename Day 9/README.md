@@ -53,8 +53,10 @@ Output:
 ```
 
 ### 1. Membuat heatmap untuk melihat korelasi antar data
-`df.corr()` menghitung korelasi antar kolom dalam dataset.
-`sns.heatmap()` digunakan untuk memvisualisasikan korelasi tersebut dalam bentuk heatmap, dengan parameter tambahan seperti `annot=True` untuk menampilkan nilai korelasi, `cmap` untuk memilih skema warna, dan `fmt=".2f"` untuk format angka dengan dua tempat desimal.
+- `df.corr()` menghitung korelasi antar kolom dalam dataset.
+- `sns.heatmap()` digunakan untuk memvisualisasikan korelasi tersebut dalam bentuk heatmap, dengan parameter tambahan seperti `annot=True` untuk menampilkan nilai korelasi
+- `cmap` untuk memilih skema warna
+- `fmt=".2f"` untuk format angka dengan dua tempat desimal.
 ```python
 numeric_df = df.select_dtypes(include=[np.number])
 correlation_matrix = numeric_df.corr()
