@@ -26,7 +26,7 @@ Dengan Seaborn, visualisasi data menjadi lebih intuitif dan estetis, membantu in
 
 ### Install Library Seaborn
 ```bash
-pip install seaborn matplotlib pandas
+pip install seaborn matplotlib pandas numpy
 ```
 
 ### Import Library Seaborn
