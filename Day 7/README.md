@@ -24,7 +24,17 @@ Sebelum memulai, Anda memerlukan file **iris.csv** sebagai data input. Anda dapa
 
 Simpan file tersebut di direktori kerja yang sama dengan script Python Anda.
 ---
+## 🛠️ Persyaratan
+Python >= 3.7
+Library yang diperlukan:
+- pandas
+- openpyxl (untuk membaca/menulis Excel)
+Install library menggunakan pip:
+```bash
+pip install pandas openpyxl
+```
 
+---
 ## 🚀 Langkah-Langkah
 
 ### 1. Membaca File CSV/Excel
@@ -104,3 +114,9 @@ Output:
 ```bash
 
 ```
+📂 File dan Format Output
+Input File: 'iris.csv, 'iris.xlsx'
+Output File:
+- 'output_data.csv'
+- 'output_data.xlsx'
+- 'output_data.json'
