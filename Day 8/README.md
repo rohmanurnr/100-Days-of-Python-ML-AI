@@ -16,7 +16,7 @@
 ## 🏆 Aktivitas/Tantangan
 
 ### Deskripsi
-Visualisasi data adalah langkah penting dalam analisis data untuk mengubah data mentah m
+Visualisasi data adalah langkah penting dalam analisis data untuk mengubah data mentah menjadi informasi yang lebih mudah dipahami. Library Matplotlib di Python memungkinkan kita membuat berbagai jenis grafik untuk membantu memahami pola, tren, atau distribusi data.
 
 ---
 ## 🚀 Langkah-Langkah
