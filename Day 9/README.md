@@ -24,12 +24,12 @@ Dengan Seaborn, visualisasi data menjadi lebih intuitif dan estetis, membantu in
 ---
 ## 🚀 Langkah-Langkah
 
-### Install Library Matplotlib
+### Install Library Seaborn
 ```bash
 pip install seaborn matplotlib pandas
 ```
 
-### Import Library Matplotlib
+### Import Library Seaborn
 ```bash
 import seaborn as sns
 import matplotlib.pyplot as plt
