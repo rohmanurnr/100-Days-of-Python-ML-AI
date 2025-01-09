@@ -70,7 +70,7 @@ plt.ylabel('Jumlah Penjualan')
 plt.show()
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%208/grafik_batang.png)" width="500">
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%208/grafik_batang.png" width="500">
 
 ### Membuat Histogram
 Langkah-langkah:
