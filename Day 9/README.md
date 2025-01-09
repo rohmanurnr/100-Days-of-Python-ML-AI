@@ -75,8 +75,9 @@ Output:
 Parameter `hue="species"` digunakan untuk memberi warna berdasarkan kolom `species`, dan `palette="Set1"` memilih palet warna.
 `markers` digunakan untuk mengubah bentuk titik pada plot, dan `plot_kws={'alpha': 0.7}` untuk menambahkan transparansi pada plot.
 ```python
-sns.pairplot(df, hue="species", palette="Set1") 
+sns.pairplot(df, hue="variety", palette="Set1") 
 plt.title("Pairplot Hubungan Antar Variabel")
+plt.savefig('pairplot.png', format='png', dpi=500)
 plt.show()
 ```
 Output:
@@ -86,8 +87,9 @@ Output:
 Kedua visualisasi berikut menggunakan berbagai parameter tambahan seperti `figsize`, `markers`, `cmap`, dan `linewidths` untuk memperindah tampilan.
 #### Pairplot dengan lebih banyak pengaturan estetika
 ```python
-sns.pairplot(df, hue="species", palette="Set2", markers=["o", "s", "D"], plot_kws={'alpha': 0.7})
+sns.pairplot(df, hue="variety", palette="Set2", markers=["o", "s", "D"], plot_kws={'alpha': 0.7})
 plt.suptitle("Pairplot yang Ditingkatkan", y=1.02)
+plt.savefig('pairplot_tingkatan.png', format='png', dpi=500)
 plt.show()
 ```
 Output:
