@@ -68,7 +68,7 @@ plt.savefig('heatmap_korelasi.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
-<img src=”x” width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%209/heatmap_korelasi.png" width=”500”>
 
 ### 2. Membuat pairplot untuk melihat hubungan antar variabel
 `sns.pairplot()` membuat plot pairwise untuk semua variabel numerik dalam dataset.
@@ -81,7 +81,7 @@ plt.savefig('pairplot.png', format='png', dpi=500)
 plt.show()
 ```
 Output:
-<img src=”x” width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%209/pairplot.png" width=”500”>
 
 ### 3. Menambahkan parameter untuk memperindah visualisasi
 Kedua visualisasi berikut menggunakan berbagai parameter tambahan seperti `figsize`, `markers`, `cmap`, dan `linewidths` untuk memperindah tampilan.
@@ -93,7 +93,7 @@ plt.savefig('pairplot_tingkatan.png', format='png', dpi=500)
 plt.show()
 ```
 Output:
-<img src=”x” width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%209/pairplot_tingkatan.png" width=”500”>
 
 #### Heatmap dengan gaya lebih estetis
 ```python
@@ -103,4 +103,4 @@ plt.title("Heatmap Estetis Korelasi Antar Data")
 plt.show()
 ```
 Output:
-<img src=”x” width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%209/heatmap_estetis.png" width=”500”>
