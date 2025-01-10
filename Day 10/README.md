@@ -20,6 +20,7 @@ Statistik deskriptif adalah langkah awal dalam analisis data untuk merangkum dan
 - **Mean (Rata-rata):** Nilai rata-rata dari semua data.
 - **Median:** Nilai tengah dari data setelah diurutkan.
 - **Mode:** Nilai yang paling sering muncul dalam data.
+
 Statistik ini memberikan wawasan dasar mengenai distribusi data, yang berguna untuk analisis lebih lanjut. Dengan Python dan Pandas, kita dapat menghitung ketiga nilai ini dengan mudah, bahkan untuk dataset besar.
 
 ---
