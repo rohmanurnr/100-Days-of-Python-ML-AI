@@ -23,7 +23,7 @@ Varians dan standar deviasi adalah metrik yang digunakan untuk mengukur penyebar
 Pengukuran ini membantu kita memahami seberapa "konsisten" data dan apakah terdapat anomali atau outlier yang signifikan.
 
 ---
-## Persiapan Data
+### Persiapan Data
 Buat dataset sederhana untuk digunakan dalam perhitungan.
 ```python
 import pandas as pd
@@ -53,7 +53,7 @@ Dataset:
 9    Joko     81
 ```
 
-## Menghitung Variance
+### Menghitung Variance
 Gunakan Pandas untuk menghitung varians data.
 ```python
 variance = df['Nilai'].var()
@@ -64,7 +64,7 @@ Output:
 Variance (Varians): 86.62222222222223
 ```
 
-## Menghitung Standard Deviation
+### Menghitung Standard Deviation
 Gunakan Pandas untuk menghitung standar deviasi data.
 ```python
 std_dev = df['Nilai'].std()
@@ -75,7 +75,7 @@ Output:
 Standard Deviation (Standar Deviasi): 9.307106006822004
 ```
 
-## Visualisasi Penyebaran Data
+### Visualisasi Penyebaran Data
 Gunakan grafik seperti histogram untuk memvisualisasikan distribusi data.
 ```python
 plt.hist(df['Nilai'], bins=5, color='skyblue', edgecolor='black')
@@ -91,7 +91,7 @@ plt.show()
 Output:
 <img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20011/vis_var_std.png" width=”500”>
 
-## Interpretasi
+### Interpretasi
 Analisis hasil untuk memahami tingkat variasi dalam dataset.
 ```python
 print("\nInterpretasi:")
