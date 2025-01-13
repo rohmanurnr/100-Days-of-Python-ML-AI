@@ -23,8 +23,10 @@ Metode Interquartile Range (IQR) adalah cara yang efektif untuk mendeteksi dan m
 IQR=Q3−Q1
 
 Dimana:
-Q1: Kuartil pertama (25%)
-Q3: Kuartil ketiga (75%)
+
+- Q1: Kuartil pertama (25%)
+- Q3: Kuartil ketiga (75%)
+
 Data dianggap outlier jika berada di bawah (Q1 − 1.5 × IQR) atau di atas (Q3 + 1.5 × IQR).
 
 ---
