@@ -121,9 +121,9 @@ Output:
 <img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20014/bxp_eda.png" width=”500”>
 
 ## Challenge
-Identifikasi distribusi nilai siswa menggunakan histogram. Apakah data simetris atau miring ke kanan/kiri?
-Analisis hubungan antara waktu belajar dan nilai dari scatter plot. Adakah korelasi yang jelas?
-Periksa apakah terdapat outlier dalam data nilai menggunakan box plot.
+- Identifikasi distribusi nilai siswa menggunakan histogram. Apakah data simetris atau miring ke kanan/kiri?
+- Analisis hubungan antara waktu belajar dan nilai dari scatter plot. Adakah korelasi yang jelas?
+- Periksa apakah terdapat outlier dalam data nilai menggunakan box plot.
 
 ### Identifikasi Distribusi Nilai Siswa menggunakan Histogram
 ```python
@@ -147,7 +147,7 @@ else:
     print("Distribusi simetris.")
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20014/'challenge1_eda.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20014/challenge1_eda.png" width=”500”>
 ```bash
 Distribusi miring ke kiri (negatif), skewness: -0.98
 ```
@@ -175,7 +175,7 @@ else:
     print("Tidak ada hubungan antara waktu belajar dan nilai.")
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20014/'challenge2_eda.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20014/challenge2_eda.png" width=”500”>
 ```bash
 Korelasi antara waktu belajar dan nilai: 0.93
 Hubungan positif: Waktu belajar meningkat, nilai cenderung meningkat.
@@ -205,7 +205,7 @@ else:
     print("Tidak terdapat outlier dalam data nilai.")
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20014/'challenge3_eda.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20014/challenge3_eda.png" width=”500”>
 ```bash
 Terdapat 1 outlier:
     Nama  Nilai  Waktu Belajar
