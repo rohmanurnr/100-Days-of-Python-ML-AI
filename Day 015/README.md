@@ -18,9 +18,9 @@
 ### Deskripsi
 Korelasi adalah ukuran statistik yang menunjukkan sejauh mana dua variabel saling berhubungan. Nilai korelasi berkisar dari -1 hingga 1:
 
-+1: Hubungan positif sempurna (satu variabel naik, yang lain juga naik).
-0: Tidak ada hubungan.
--1: Hubungan negatif sempurna (satu variabel naik, yang lain turun).
+- +1: Hubungan positif sempurna (satu variabel naik, yang lain juga naik).
+- 0: Tidak ada hubungan.
+- -1: Hubungan negatif sempurna (satu variabel naik, yang lain turun).
 
 Visualisasi korelasi menggunakan heatmap memudahkan kita untuk mengidentifikasi pola hubungan antara fitur dalam dataset. Hal ini sangat berguna untuk analisis data dan seleksi fitur sebelum membangun model prediktif.
 
@@ -48,12 +48,12 @@ print(df.head())
 Output:
 ```bash
 Dataset:
-   Waktu Belajar (Jam)        Nilai          Kehadiran (%)            Latihan Soal (Jam)
-0                    7                    84                       80                             2
-1                    4                    86                       98                             2
-2                    8                    96                       79                             4
-3                    5                    63                       94                             2
-4                    7                    52                       76                             2
+   Waktu Belajar (Jam)   Nilai    Kehadiran (%)       Latihan Soal (Jam)
+0          7               84           80                    2
+1          4               86           98                    2
+2          8               96           79                    4
+3          5               63           94                    2
+4          7               52           76                    2
 ```
 
 ### Hitung Korelasi
@@ -66,17 +66,17 @@ print(correlation_matrix)
 Output:
 ```bash
 Matriks Korelasi:
-                                                   Waktu Belajar (Jam)               Nilai  
-Waktu Belajar (Jam)             1.000000                               -0.009954      
-Nilai                                      -0.009954                               1.000000      
-Kehadiran (%)                      -0.009696                              -0.137514         
-Latihan Soal (Jam)                0.085673                              -0.090468        
+                          Waktu Belajar (Jam)               Nilai  
+Waktu Belajar (Jam)             1.000000                 -0.009954      
+Nilai                          -0.009954                  1.000000      
+Kehadiran (%)                  -0.009696                 -0.137514         
+Latihan Soal (Jam)             0.085673                  -0.090468        
 
-                                           Kehadiran (%)                 Latihan Soal (Jam)  
-Waktu Belajar (Jam)             -0.009696                           0.085673  
-Nilai                                      -0.137514                          -0.090468  
-Kehadiran (%)                       1.000000                          -0.020836  
-Latihan Soal (Jam)               -0.020836                           1.000000  
+                             Kehadiran (%)            Latihan Soal (Jam)  
+Waktu Belajar (Jam)           -0.009696                    0.085673  
+Nilai                         -0.137514                   -0.090468  
+Kehadiran (%)                  1.000000                   -0.020836  
+Latihan Soal (Jam)            -0.020836                    1.000000  
 ```
 
 ### Visualisasi Heatmap
