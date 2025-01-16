@@ -18,11 +18,11 @@
 ### Deskripsi
 Transformasi data adalah proses penting untuk mengubah data mentah menjadi format yang lebih sesuai untuk analisis atau modeling.
 
-1. :**Normalisasi:** Mengubah data menjadi rentang [0, 1], sering digunakan untuk algoritma yang sensitif terhadap skala, seperti k-Nearest Neighbors atau Neural Networks.
+1. **Normalisasi:** Mengubah data menjadi rentang [0, 1], sering digunakan untuk algoritma yang sensitif terhadap skala, seperti k-Nearest Neighbors atau Neural Networks.
 Formula:
 <img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20016/formula_normalisasi.png" width=”200”>
 
-2. :**Standardisasi::** Mengubah data menjadi distribusi dengan rata-rata 0 dan standar deviasi 1. Ini penting untuk algoritma yang mengandalkan distribusi normal, seperti Support Vector Machine atau PCA.
+2. **Standardisasi:** Mengubah data menjadi distribusi dengan rata-rata 0 dan standar deviasi 1. Ini penting untuk algoritma yang mengandalkan distribusi normal, seperti Support Vector Machine atau PCA.
 Formula:
 <img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20016/formula_standarisasi.png" width=”200”>
 
