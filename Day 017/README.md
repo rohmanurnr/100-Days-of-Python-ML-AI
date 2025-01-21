@@ -23,12 +23,12 @@ Data kategori adalah data yang merepresentasikan nilai dalam bentuk kategori, se
 Misalnya:
 
 Kolom Warna dengan nilai ["Merah", "Hijau", "Biru"] akan diubah menjadi:
-
-```Merah | Hijau | Biru
+```
+Merah | Hijau | Biru
   1   |   0   |  0
   0   |   1   |  0
-  0   |   0   |  1```
-
+  0   |   0   |  1
+```
 
 ---
 ## 🚀 Langkah-Langkah
