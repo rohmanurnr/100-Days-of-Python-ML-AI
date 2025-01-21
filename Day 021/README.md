@@ -34,7 +34,7 @@ Persamaan garis: `𝑦 =𝑚𝑥 + 𝑐`, di mana:
 
 Metode OLS: Meminimumkan sum of squared errors 
 
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20021/21_01.png" width="300">
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20021/21_01.jpg" width="300">
 
 ### Implementasi Regresi Linear Sederhana
 Gunakan Python untuk membangun model regresi linear menggunakan dataset sederhana (contoh: data prediksi nilai berdasarkan waktu belajar).
