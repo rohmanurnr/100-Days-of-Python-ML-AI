@@ -22,7 +22,7 @@ Data kategori adalah data yang merepresentasikan nilai dalam bentuk kategori, se
 
 Misalnya:
 
-Kolom Warna dengan nilai ["Merah", "Hijau", "Biru"] akan diubah menjadi:
+Kolom Warna dengan nilai `["Merah", "Hijau", "Biru"]` akan diubah menjadi:
 ```
 Merah | Hijau | Biru
   1   |   0   |  0
