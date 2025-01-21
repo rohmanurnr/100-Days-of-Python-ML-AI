@@ -19,20 +19,15 @@ Mengonversi data kategori menjadi bentuk numerik dengan teknik one-hot encoding.
 
 ### Deskripsi
 Data kategori adalah data yang merepresentasikan nilai dalam bentuk kategori, seperti "merah", "kuning", "biru" atau "rendah", "sedang", "tinggi". Karena sebagian besar algoritma pembelajaran mesin bekerja dengan data numerik, kita perlu mengonversi data kategori menjadi angka. Salah satu metode populer adalah one-hot encoding, di mana setiap kategori diubah menjadi kolom biner (0 atau 1).
+
 Misalnya:
+
 Kolom Warna dengan nilai ["Merah", "Hijau", "Biru"] akan diubah menjadi:
-Merah
-Hijau
-Biru
-1
-0
-0
-0
-1
-0
-0
-0
-1
+
+Merah | Hijau | Biru
+  1   |   0   |  0
+  0   |   1   |  0
+  0   |   0   |  1
 
 
 ---
