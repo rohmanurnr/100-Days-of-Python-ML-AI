@@ -25,7 +25,7 @@ Mengapa ini penting?
 - **RMSE** memberikan skala kesalahan yang sama dengan data asli, memudahkan interpretasi.
 - **R^2-score** mengukur seberapa baik model menjelaskan variabilitas data target.
 
-—
+---
 
 ## 🚀 Langkah-Langkah
 
