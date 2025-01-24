@@ -67,7 +67,7 @@ plt.savefig('24_01.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20024/'24_01.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20024/24_01.png" width=”500”>
 
 ### Analisis Visualisasi
 - **Garis Referensi (y = x):** Prediksi ideal ada di garis ini.
