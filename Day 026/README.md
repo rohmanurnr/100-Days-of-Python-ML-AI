@@ -56,7 +56,7 @@ plt.savefig('26_01.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20026/'26_01.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20026/26_01.png" width=”500”>
 
 ### Implementasi K-Means
 - Pilih jumlah cluster (𝑘) yang sesuai.
@@ -88,7 +88,7 @@ plt.savefig('26_02.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20026/'26_02.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20026/26_02.png" width=”500”>
 
 ### Analisis Performa
 Gunakan atribut seperti inertia atau nilai SSE untuk mengevaluasi hasil clustering.
@@ -127,7 +127,7 @@ plt.savefig('26_03.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20026/'26_03.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20026/26_03.png" width=”500”>
 
 
 ### Kesimpulan 
