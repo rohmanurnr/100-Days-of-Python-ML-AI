@@ -104,7 +104,7 @@ plt.savefig('Day_033_01.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20x/Day_033_01.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20033/Day_033_01.png" width=”500”>
 
 ### Challenge
 1. Ubah parameter Decision Tree
