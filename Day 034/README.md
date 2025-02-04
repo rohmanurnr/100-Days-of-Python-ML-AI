@@ -26,7 +26,7 @@ Dalam machine learning, akurasi saja tidak cukup untuk mengevaluasi model klasif
 Akurasi adalah persentase prediksi yang benar dibandingkan dengan total data.
 Formula:
 
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20x/Day_034_02.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20034/Day_034_02.png" width=”500”>
 
 - Cocok digunakan jika dataset seimbang (jumlah kelas hampir sama).
 - Kurang baik jika dataset tidak seimbang (misalnya, jika ada 95% data kelas A dan 5% data kelas B, model bisa dapat 95% akurasi hanya dengan selalu memprediksi kelas A!).
@@ -38,7 +38,7 @@ Precision menunjukkan dari semua yang diprediksi sebagai kelas positif, berapa y
 
 Formula:
 
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20x/Day_034_03.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20034/Day_034_03.png" width=”500”>
 
 - Penting jika false positive berbahaya (contoh: tes penyakit serius, lebih baik model hanya memprediksi positif jika yakin).
 - Tidak terlalu peduli dengan false negative (melesetnya prediksi positif yang seharusnya benar).
@@ -49,7 +49,7 @@ Formula:
 Recall menunjukkan berapa banyak dari semua kasus positif yang berhasil dideteksi oleh model.
 Formula:
 
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20x/Day_034_04.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20034/Day_034_04.png" width=”500”>
 
 - Penting jika false negative berbahaya (contoh: mendeteksi kanker, lebih baik mendeteksi semua kasus meskipun ada false positive).
 - Bisa tinggi tetapi mengorbankan precision (misalnya, jika model selalu memprediksi positif, recall 100% tetapi precision rendah).
@@ -60,7 +60,7 @@ Formula:
 Karena precision dan recall sering bertolak belakang, kita bisa menggunakan F1-score, yang merupakan rata-rata harmonik precision dan recall.
 Formula:
 
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20x/Day_034_05.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20034/Day_034_05.png" width=”500”>
 
 - Cocok jika kita butuh keseimbangan antara precision dan recall.
 - Baik digunakan jika dataset tidak seimbang.
@@ -150,7 +150,7 @@ plt.savefig('Day_034_01.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20x/Day_034_01.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20034/Day_034_01.png" width=”500”>
 
 
 ### Challenge
