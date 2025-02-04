@@ -60,7 +60,7 @@ Formula:
 Karena precision dan recall sering bertolak belakang, kita bisa menggunakan F1-score, yang merupakan rata-rata harmonik precision dan recall.
 Formula:
 
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20034/Day_034_05.png" width="200">
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20034/Day_034_05.png" width="250">
 
 - Cocok jika kita butuh keseimbangan antara precision dan recall.
 - Baik digunakan jika dataset tidak seimbang.
