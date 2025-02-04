@@ -103,7 +103,7 @@ Output:
 ```bash
 Akurasi Model: 1.00
 ```
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20x/Day_035_01.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20035/Day_035_01.png" width=”500”>
 
 ### Interpretasi Model - Feature Importance
 ```python
@@ -119,7 +119,7 @@ plt.savefig('Day_035_02.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20x/Day_035_02.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20035/Day_035_02.png" width=”500”>
 
 ### Visualisasi Salah Satu Pohon dalam Random Forest
 ```python
@@ -129,7 +129,7 @@ plt.savefig('Day_035_03.png', format='png', dpi=300)
 plt.show()
 ```
 Output:
-<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20x/Day_035_03.png" width=”500”>
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20035/Day_035_03.png" width=”500”>
 
 ### Challenge
 1. Ubah jumlah `n_estimators` dan lihat bagaimana itu mempengaruhi akurasi model.
