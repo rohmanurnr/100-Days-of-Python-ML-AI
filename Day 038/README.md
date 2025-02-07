@@ -40,6 +40,7 @@ Pada SVM, hyperplane adalah garis yang membagi data ke dalam dua kelas.
 - Jika lebih dari 3 dimensi, hyperplane berada dalam dimensi yang lebih tinggi.
 
 Persamaan hyperplane dalam 2D:
+
 w1​x1 + w2x2 + b = 0
 
 di mana:
@@ -115,10 +116,10 @@ Output:
 Beberapa dataset tidak bisa dipisahkan dengan hyperplane linear.
 SVM menggunakan kernel trick untuk mengubah data ke dimensi yang lebih tinggi agar bisa dipisahkan dengan lebih baik.
 
-✅ Linear Kernel → Cocok untuk data yang dapat dipisahkan dengan garis lurus.
-✅ Polynomial Kernel → Memungkinkan pemisahan dengan kurva polinomial.
-✅ RBF (Radial Basis Function) Kernel → Cocok untuk data kompleks yang tidak dapat dipisahkan secara linear.
-✅ Sigmoid Kernel → Digunakan dalam model yang menyerupai jaringan saraf tiruan (ANN).
+- Linear Kernel → Cocok untuk data yang dapat dipisahkan dengan garis lurus.
+- Polynomial Kernel → Memungkinkan pemisahan dengan kurva polinomial.
+- RBF (Radial Basis Function) Kernel → Cocok untuk data kompleks yang tidak dapat dipisahkan secara linear.
+- Sigmoid Kernel → Digunakan dalam model yang menyerupai jaringan saraf tiruan (ANN).
 
 ### Mencoba Kernel Linear vs RBF
 Bandingkan bagaimana SVM dengan kernel linear dan kernel RBF menangani dataset berbentuk moons yang tidak dapat dipisahkan secara linear.
