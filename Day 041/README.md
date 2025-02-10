@@ -28,7 +28,11 @@ Logistic Regression adalah algoritma klasifikasi yang digunakan untuk memprediks
 - **Cost Function (Log Loss)**: Digunakan untuk mengukur seberapa baik model membuat prediksi probabilitas.
 
 **Rumus Fungsi Sigmoid**:
-di mana z = wX + b, dengan:
+
+<img src="https://github.com/rohmanurnr/100-Days-of-Python-ML-AI/blob/main/Day%20041/Day_041_05.jpg" width=”500”>
+
+di mana x = wX + b, dengan:
+
 - w sebagai bobot fitur
 - X sebagai fitur input
 - b sebagai bias
